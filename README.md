@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Jeremiah's github stats](https://github-readme-stats.vercel.app/api?username=ucejtech&show_icons=true&theme=dracula)
+  <img src="https://gpvc.arturio.dev/ucejtech" width="auto" height="auto"/>
